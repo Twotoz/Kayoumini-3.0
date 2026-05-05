@@ -2,8 +2,12 @@
 A 3 inch Kayoumini based on the 2.5 inch variant. NOTE: This is not a real Kayoumini frame. It is backwards compatible with kayoumini 3d prints.
 It is not compatible with the Kayomini motor protector / arm bumpers. For motor protectors, please download the design in the repo instead.
 
-<img width="1016" height="526" alt="image" src="https://github.com/user-attachments/assets/fa695cb5-7f66-482c-949b-6b6f89bd2676" />
-<img width="623" height="590" alt="image" src="https://github.com/user-attachments/assets/15d6085b-3131-4710-9852-85521b9739fd" />
-<img width="1106" height="585" alt="image" src="https://github.com/user-attachments/assets/84526a86-4488-4389-8f2a-f06bc8c32488" />
+<img width="1141" height="592" alt="image" src="https://github.com/user-attachments/assets/df84ae80-a441-47cd-9ac8-728b88da24db" />
+<img width="837" height="468" alt="image" src="https://github.com/user-attachments/assets/0ed9125b-4b82-48f4-80be-426786bd3a71" />
+<img width="1062" height="603" alt="image" src="https://github.com/user-attachments/assets/4fb10cf5-0c97-412b-8bb0-b963d652c5a4" />
+<img width="1077" height="518" alt="image" src="https://github.com/user-attachments/assets/847f8388-2429-4934-910d-7aa596c6e1ca" />
+
+
+
 
 
