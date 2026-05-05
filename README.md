@@ -6,3 +6,4 @@ It is not compatible with the motor protector / arm bumpers.
 
 
 <img width="1061" height="597" alt="image" src="https://github.com/user-attachments/assets/a55e366d-8165-451e-8e29-bec8de52ed5d" />
+<img width="777" height="660" alt="image" src="https://github.com/user-attachments/assets/776a98e0-f503-463c-94a0-ecfc6d977b69" />
